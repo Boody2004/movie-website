@@ -190,7 +190,7 @@ header .arrow-intro {
   text-decoration: none;
 }
 .featured-content .featured-content-text {
-  max-width: 20%;
+  width: 20%;
 }
 .featured-content .featured-content-text h1 {
   font-size: 45px;
